@@ -1,6 +1,6 @@
 # General Jekyll Config
 pygments: true
-url: http://example.com
+url: http://leonidmirsky.com
 lsi: false
 exclude: [LICENSE, CNAME, README.md, .gitignore]
 
@@ -16,12 +16,12 @@ theme:
     hacker_news: swanson
 
   # "Hi, I'm _______"
-  name: Matt Swanson
-  email: test@example.com
+  name: Leonid Mirsky
+  email: leonidlm@gmail.com
   tagline: "weak opinions, strongly held"
 
   # Google Analytics key, leave blank to ignore
   google_analytics_key: UA-xxxx-x
 
   # Toggle "Postings are my own" disclaimer in footer
-  show_disclaimer: true
+  show_disclaimer: false
