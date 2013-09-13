@@ -19,6 +19,19 @@ Follow me:
   </a>
   {% endif %}
 
+  {% if site.theme.social.linkedin %}
+  <a title="{{ site.theme.social.linkedin }} on Linkedin" href="http://il.linkedin.com/in/{{ site.theme.social.linkedin }}/">
+    <i class="icon-linkedin-sign"></i>
+  </a>
+  {% endif %}
+
+  {% if site.theme.social.email %}
+  <a title="Send me an email" href="mailto://{{ site.theme.social.email }}/">
+    <i class="icon-question-sign"></i>
+  </a>
+  {% endif %}
+
+
   <a title="RSS feed" id="rss" href="/atom.xml">
     <i class="icon-rss-sign"></i>
   </a>
