@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Sample post
+published: false
 categories:
 - blog
 ---

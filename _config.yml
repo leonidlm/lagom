@@ -21,5 +21,6 @@ theme:
   email: leonidlm@gmail.com
 
   # Google Analytics key, leave blank to ignore
-  google_analytics_key: UA-xxxx-x
+  google_analytics_key: UA-44700272-1
+  google_analytics_sitename: leonidmirsky.com
 

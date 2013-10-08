@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Another sample
+published: false
 categories:
 - blog
 ---
