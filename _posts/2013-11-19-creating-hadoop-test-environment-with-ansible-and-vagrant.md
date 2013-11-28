@@ -15,7 +15,7 @@ I always hated shell scripting.
 When I discovered Puppet a year ago, I finally found a good programmable way to describe the infrastructure I am working with.
 A lot changed since my first encounter with Puppet, especially, since plenty of new and interesting tools appeared which compete with Puppet for the heart of a sysadmin.
 
-One of these shiny new configuration management tools is [Ansible](http://www.ansibleworks.com/). I decided to give it a spin, and to configure a local Hadoop development environment using it and vagrant.
+One of these shiny new configuration management tools is [Ansible](http://www.ansibleworks.com/). I decided to give it a try, and to configure a local Hadoop development environment using it and vagrant.
 
 ---
 
